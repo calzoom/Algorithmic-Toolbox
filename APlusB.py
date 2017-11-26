@@ -1,4 +1,6 @@
 # Uses python3
+# Max time used: 0.02/5.00, max memory used: 8585216/536870912
+
 # There are two ways of running this program:
 # 1. Run
 #     python3 APlusB.py
