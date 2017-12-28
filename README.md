@@ -15,7 +15,7 @@ Assignments for Algorithmic Toolbox on Coursera with time and memory results fro
 ### Solving a Simple Code Problem
 Problem: [Maximum Pairwise Product](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_1/maximum_pairwise_product)
 
-* Python: Max time used: 0.14/5.00, max memory used: 26456064/536870912
+* Python: Max time used: 0.16/5.00, max memory used: 28073984/536870912
 
 ## Week 2
 ###  Prgramming Assignment: [Introduction](https://github.com/mablatnik/Data-Structures-And-Algorithms/blob/master/algorithmic_toolbox/week_2/01_introduction_problems.pdf)
